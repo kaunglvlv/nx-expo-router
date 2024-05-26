@@ -1,0 +1,8 @@
+{
+  "name": "@nx-expo-router/source",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kevin Aung <kaunglvlv@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
