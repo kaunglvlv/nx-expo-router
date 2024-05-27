@@ -29,6 +29,18 @@
         "buildAndroidTargetName": "build-android",
         "syncDepsTargetName": "sync-deps"
       }
+    },
+    {
+      "plugin": "@nx/eslint/plugin",
+      "options": {
+        "targetName": "lint"
+      }
+    },
+    {
+      "plugin": "@nx/jest/plugin",
+      "options": {
+        "targetName": "test"
+      }
     }
   ]
 }
